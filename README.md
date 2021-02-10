@@ -1,6 +1,6 @@
 # SMTPFury
 
-SMTPFury is a Python written application that can handle a large list of emails and send messages using a SMTP connection. The code and part of the design is inspired by a very old project that was a simple commandline script. SMTPFury is designed to look simple, be simple to use and be efficient.
+SMTPFury is a Python written application that can handle a large list of emails and send messages using a SMTP connection. The code and part of the design is inspired by a very old project that was a simple commandline script. SMTPFury is designed to look relatively minimalistic, be simple to use and be efficient.
 
 Operation is extremely easy. Modify the files provided containing the SMTP details and provide the program with a list of emails then just press the "Start" button.
 
