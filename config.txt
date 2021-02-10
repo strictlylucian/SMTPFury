@@ -1,7 +1,0 @@
-emails.txt
-hello
-example.html
-smtp.gmail.com
-example@gmail.com
-example_password
-port
