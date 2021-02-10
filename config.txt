@@ -1,0 +1,7 @@
+emails.txt
+example_title
+example.html
+smtp.gmail.com
+example@gmail.com
+example_password
+port
