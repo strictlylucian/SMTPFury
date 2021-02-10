@@ -6,9 +6,9 @@ Operation is extremely easy. Modify the files provided containing the SMTP detai
 
 # Gallery
 
-![alt text](https://ibb.co/qMHQVSv)
+![alt text](https://i.ibb.co/FbQTCrF/mainui.png)
 
-![alt text](https://gyazo.com/bcbae9aa196d61753ca68c9be032187d)
+![alt text](https://i.gyazo.com/bcbae9aa196d61753ca68c9be032187d.mp4)
 
 The application uses a config structure that goes as follows:
 
@@ -22,6 +22,6 @@ The application uses a config structure that goes as follows:
 
 All of these settings can ofcourse be manually inputed inside the program and you can save them inside a config. A functioning config should look something like:
 
-![alt text](https://ibb.co/Dt2Yw4d)
+![alt text](https://i.ibb.co/s2YCsj7/config.png)
 
 
