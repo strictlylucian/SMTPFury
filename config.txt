@@ -2,6 +2,6 @@ emails.txt
 hello
 example.html
 smtp.gmail.com
-smtpfurytest@gmail.com
-Steaua1977
-587
+example@gmail.com
+example_password
+port
