@@ -8,7 +8,7 @@ Operation is extremely easy. Modify the files provided containing the SMTP detai
 
 ![alt text](https://i.ibb.co/FbQTCrF/mainui.png)
 
-![alt text](https://i.gyazo.com/bcbae9aa196d61753ca68c9be032187d.mp4)
+![alt text](https://i.ibb.co/h7tfTvH/logging.png)
 
 The application uses a config structure that goes as follows:
 
